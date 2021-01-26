@@ -106,11 +106,12 @@ button:hover {
   margin-left: 10px;
 }
 .cont_pict {
-  display: inline-block;
+  display: block;
   margin-top: 140px;
   margin-left: 170px;
   /*border-color: white;*/
   border: 4px solid #04d9ff;
+  margin: 140px auto;
 }
 .hhh {
   font-family: Rhodium Libre;
